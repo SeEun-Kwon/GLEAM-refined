@@ -1,0 +1,52 @@
+[
+    {
+        "image": "COCO_train2014_000000057870.jpg",
+        "caption": [
+            "A restaurant has modern wooden tables and chairs.",
+            "A long restaurant table with rattan rounded back chairs.",
+            "a long table with a plant on top of it surrounded with wooden chairs ",
+            "A long table with a flower arrangement in the middle for meetings",
+            "A table is adorned with wooden chairs with blue accents."
+        ]
+    },
+    {
+        "image": "COCO_train2014_000000438422.jpg",
+        "caption": [
+            "A woman giving a taste test to a man. ",
+            "A woman feeds a sample of her dish to a man in front of onlookers.",
+            "Man is fed a spoonful of food by a woman in front of other people. ",
+            "Several people observing a woman feeding a man food inside a restaurant kitchen",
+            "A woman is giving a taste of her food to a man"
+        ]
+    },
+    {
+        "image": "COCO_train2014_000000477797.jpg",
+        "caption": [
+            "A white platter topped with cakes  next to a platter topped with donuts.",
+            "A plate of cake and brownies sits in front of a plate of doughnuts.  ",
+            "Two large trays displaying a multitude of assorted pastry items.",
+            "Sweet treats are served together on a platter. ",
+            "These trays are filled with three kinds of desserts."
+        ]
+    },
+    {
+        "image": "COCO_train2014_000000013352.jpg",
+        "caption": [
+            "A red fire hydrant between a sidewalk and a road.",
+            "A fire hydrant is on the side of the street.",
+            "A pink fire hydrant is on the side of a side walk.",
+            "A pink fire hydrant sitting next to a sidewalk.",
+            "The pink fire hydrant is on the sidewalk near a cactus. "
+        ]
+    },
+    {
+        "image": "COCO_train2014_000000106652.jpg",
+        "caption": [
+            "A man and a woman standing next to a couch. ",
+            "A man and a woman standing together in a living room.",
+            "A man and woman pose for a picture while standing next to a couch.",
+            "A man and a women standing next to each other.",
+            "A man and a woman in formal wear in a den."
+        ]
+    }
+]

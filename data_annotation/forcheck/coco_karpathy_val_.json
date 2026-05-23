@@ -1,0 +1,33 @@
+[
+  {
+        "image": "val2014/COCO_val2014_000000184613.jpg",
+        "caption": [
+            "A child holding a flowered umbrella and petting a yak.",
+            "A young man holding an umbrella next to a herd of cattle.",
+            "a young boy barefoot holding an umbrella touching the horn of a cow",
+            "A young boy with an umbrella who is touching the horn of a cow.",
+            "A boy holding an umbrella while standing next to livestock."
+        ]
+    },
+    {
+        "image": "val2014/COCO_val2014_000000403013.jpg",
+        "caption": [
+            "A narrow kitchen filled with appliances and cooking utensils.",
+            "A galley kitchen with cabinets and appliances on both sides",
+            "A hallway leading into a white kitchen with appliances.",
+            "Doorway view of a kitchen with a sink, stove, refrigerator and pantry.",
+            "The pantry door of the small kitchen is closed."
+        ]
+    },
+    {
+        "image": "val2014/COCO_val2014_000000562150.jpg",
+        "caption": [
+            "A little girl holding a kitten next to a blue fence.",
+            "Girl in a tank top holding a kitten in her back yard",
+            "A young girl is holding a small cat.",
+            "Girl with a yellow shirt holding a small cat",
+            "A girl smiles as she holds a kitty cat."
+        ]
+    }
+
+]

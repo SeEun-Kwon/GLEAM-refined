@@ -1,0 +1,42 @@
+[
+  {
+        "image": "COCO_train2014_000000384029.jpg",
+        "caption": [
+            "A man preparing desserts in a kitchen covered in frosting.",
+            "A chef is preparing and decorating many small pastries.",
+            "A baker prepares various types of baked goods.",
+            "a close up of a person grabbing a pastry in a container",
+            "Close up of a hand touching various pastries."
+        ]
+    },
+    {
+        "image": "COCO_train2014_000000356702.jpg",
+        "caption": [
+            "A couple of young men sitting in front of a child's laptop.",
+            "A pair of men looking at a tablet perched on a table.",
+            "Two men laugh as they look at a computer.",
+            "Two men are smiling looking at a laptop computer.",
+            "Two men happily working on a plastic computer"
+        ]
+    },
+    {
+        "image": "COCO_train2014_000000018885.jpg",
+        "caption": [
+            "People are standing outside near a very unique looking object. ",
+            "A masked person staring in front of a crowd.",
+            "A group of people looking at some decorations that look like a mask.",
+            "A large crowd are gathered around a colorfully costumed man.",
+            "A large masked character is carried by a group of people in a parade."
+        ]
+    },
+  {
+    "image": "COCO_train2014_000000270715.jpg",
+    "caption": [
+      "Black and white photo of a man walking outside next to others with umbrellas.",
+      "A man walking down a street wearing a hat.",
+      "A man in a fedora walks on a crowded sidewalk.",
+      "Man in hat and coat on sidewalk with people carrying open umbrellas.",
+      "A man in a fedora walks through a crowd holding umbrellas."
+    ]
+  }
+]
